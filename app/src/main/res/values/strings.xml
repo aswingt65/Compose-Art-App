@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="mona_lisa_text">Mona Lisa</string>
+    <string name="mona_lisa_artist">Leonardo Da Vinci - 1503–19</string>
+    <string name="girl_pearl_text">Girl with a Pearl Earring</string>
+    <string name="girl_pearl_artist">Johannes Vermeer - 1665</string>
+    <string name="las_men_text">Las Meninas</string>
+    <string name="las_men_artist">Diego Velazquez - 1656</string>
+    <string name="liberty_leading_the_people_text">Liberty Leading The People</string>
+    <string name="liberty_leading_the_people_artist">Eugene Delacroix - 1830</string>
+    <string name="astro_text">The Astronomer</string>
+    <string name="astro_artist">Johannes Vermeer - 1668</string>
+    <string name="kiss_text">The Kiss</string>
+    <string name="kiss_artist">Gustav Klimt - 1908</string>
+    <string name="the_birth_of_venus_text">The Birth of Venus</string>
+    <string name="the_birth_of_venus_artist">Sandro Botticelli - 1484–1486</string>
+    <string name="wanderer_text">Wanderer above the Sea of Fog</string>
+    <string name="wanderer_artist">Caspar David Friedrich - 1818</string>
+    <string name="the_last_supper_text">The Last Supper</string>
+    <string name="the_last_supper_artist">Leonardo Da Vinci - 1495—98</string>
+    <string name="the_starry_night_text">The Starry Night</string>
+    <string name="the_starry_night_artist">Vincent van Gogh - 1889</string>
+</resources>
